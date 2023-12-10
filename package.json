@@ -1,17 +1,17 @@
 {
-	"name": "@natoboram/lmgtfy",
+	"name": "@leviscop/lmgtfy",
 	"version": "0.0.2",
 	"description": "A \"Let Me Google That For You\" clone that's open source and doesn't track you when you share it.",
 	"keywords": [
 		"Google",
 		"LMGTFY"
 	],
-	"homepage": "https://github.com/NatoBoram/lmgtfy",
+	"homepage": "https://github.com/leviscop/lmgtfy",
 	"bugs": {
-		"url": "https://github.com/NatoBoram/lmgtfy/issues"
+		"url": "https://github.com/leviscop/lmgtfy/issues"
 	},
 	"license": "AGPL-3.0-or-later",
-	"repository": "github:NatoBoram/lmgtfy",
+	"repository": "github:leviscop/lmgtfy",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
